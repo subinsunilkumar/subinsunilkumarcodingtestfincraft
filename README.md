@@ -26,9 +26,12 @@ npm install
 Start the development server:
  ```bash
 npm start
+```
 
 6. Open your browser and go to http://localhost:3000
 Use the following credentials for login:
+```bash
 Username: user
 Password: user@1234
+```
  
