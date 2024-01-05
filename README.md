@@ -20,6 +20,7 @@ Make sure you have the following software installed on your machine:
 In the Visual Studio Code terminal, run the following command to install the required dependencies:
  ```bash
 npm install
+```
 
 5. Running the Application
 Start the development server:
