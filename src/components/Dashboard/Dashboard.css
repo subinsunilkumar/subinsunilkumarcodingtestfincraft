@@ -1,0 +1,26 @@
+.table-area {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.chart-area {
+    margin-top: -80px;
+}
+
+.success {
+    margin-left: 160px;
+}
+
+.price {
+    margin-left: 270px;
+}
+
+.container {
+    display: flex;
+}
+
+.box {
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+}
